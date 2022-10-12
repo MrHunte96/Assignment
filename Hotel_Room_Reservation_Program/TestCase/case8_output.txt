@@ -1,0 +1,34 @@
+NTU HOTEL ROOM RESERVATION PROGRAM:
+1: listOccupiedRooms()
+2: assignRoom()
+3: removeRoom()
+4: findCustomer()
+5: quit
+Enter your choice:
+assignRoom():
+Enter a roomID between 1 and 5:
+Enter customer name:
+The room has been assigned successfully
+Enter your choice:
+assignRoom():
+Enter a roomID between 1 and 5:
+Enter customer name:
+The room has been assigned successfully
+Enter your choice:
+assignRoom():
+Enter a roomID between 1 and 5:
+Enter customer name:
+The room has been assigned successfully
+Enter your choice:
+findCustomer():
+Enter customer name:
+The target customer name is found
+roomID: 3
+customer name: WC Tan
+Enter your choice:
+findCustomer():
+Enter customer name:
+The target customer name is found
+roomID: 3
+customer name: WC Tan
+Enter your choice:
